@@ -9,6 +9,10 @@ This project is a lightweight testimonial switcher component built using **HTML*
 - Easy to customize
 - Smooth transition animations
 
+  ## 🌐 Live Demo
+
+[Click here to view the demo]()
+
   ## 🛠️ Technologies Used
 
 - HTML5
